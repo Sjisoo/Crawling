@@ -1,6 +1,6 @@
 # Melon
 This is one of the most famous example for crawling the data from server.
-If you want to practice the crawling. I recommend this one. Because it is easy to understand and use.
+If you want to practice the crawling. I recommend this one, Because it is easy to understand and use.
 
 # Business Disctict
 
